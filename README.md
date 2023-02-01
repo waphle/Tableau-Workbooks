@@ -1,4 +1,4 @@
-# Tableau-Workbooks
+# InfoVis HWK3 readme
 
 ﻿<!DOCTYPE html>
 <html>
@@ -10,7 +10,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h1 id="hwk3">HWK3</h1>
+  <div class="stackedit__html">
 <p>My dashboard is an attempt to replicate the <a href="http://www.perceptualedge.com/blog/wp-content/uploads/2012/10/dashboard-competition-winner.png">winning submission</a> from Stephen Few’s design competition. My dashboard shows all of the data from the data except for the Class, Other Class, School, and District Math scores data (was unable to finish them).</p>
 <h3 id="issues">Issues</h3>
 <p>Some parts were hard to replicate in Tableau, and some parts were downright impossible to replicate in Tableau since the program lacks certain features. For example, the winning submission displays the current, previous, and goal grades on one single axis. In Tableau, you can make two measures share an axis via the “Dual-Axis” function. However, Tableau is unable to combine more than two measures together using the “Dual-Axis” function. Since I needed to display three measures, I could only use the “Dual-Axis” function for the Previous and Goal Grades measures, and I left the Current Grade on its own axis.</p>
@@ -20,9 +20,7 @@
 <p><strong>Light, faded blue circle</strong> = student is does not need special needs education, and is proficient in English.</p>
 <p><strong>Yellow circle</strong> = student needs special needs education.</p>
 <p><strong>Dark blue circle</strong> = student not proficient in English.</p>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+    
 </div>
 </body>
 
